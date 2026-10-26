@@ -51,10 +51,47 @@
          ]
         },
         {
+         "id": "okinawan-tempura",
+         "en": "Okinawan Tempura",
+         "ja": "沖縄天ぷら",
+         "items": [
+          {
+           "id": "mozukunotenpura",
+           "romaji": "Mozuku",
+           "ja": "もずく",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/mozuku-tempura.html"
+          }
+         ]
+        },
+        {
          "id": "fish",
          "en": "Fish",
          "ja": "魚",
          "items": [
+          {
+           "id": "kisu",
+           "romaji": "Kisu",
+           "ja": "きす／白鱚",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/japanese-sillago-tempura.html"
+          },
+          {
+           "id": "anago",
+           "romaji": "Anago",
+           "ja": "穴子",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/whitespotted-conger-tempura.html"
+          },
+          {
+           "id": "haze",
+           "romaji": "Haze",
+           "ja": "ハゼ",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/goby-tempura.html"
+          },
+          {
+           "id": "kohada",
+           "romaji": "Kohada",
+           "ja": "コハダ",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/kohada-tempura.html"
+          },
           {
            "id": "shirauonokakiage",
            "romaji": "Shira-uo (Kakiage)",
@@ -63,10 +100,28 @@
            "x": true
           },
           {
+           "id": "sanma",
+           "romaji": "Sanma",
+           "ja": "秋刀魚",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/pacific-saury-tempura.html"
+          },
+          {
+           "id": "shake",
+           "romaji": "Shake / Sāmon",
+           "ja": "鮭／サーモン",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/salmon-tempura.html"
+          },
+          {
            "id": "namazunotenpura",
            "romaji": "Namazu",
            "ja": "なまず",
            "url": "https://fragment-of-japan.blogspot.com/2026/10/catfish-tempura.html"
+          },
+          {
+           "id": "kogyonotenpura",
+           "romaji": "Kogyo-no-tenpura",
+           "ja": "湖魚の天ぷら",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/lake-fish-tempura-tempura.html"
           }
          ]
         },
@@ -75,6 +130,18 @@
          "en": "Prawns & Crustaceans",
          "ja": "えび・甲殻",
          "items": [
+          {
+           "id": "ebi",
+           "romaji": "Ebi / Kuruma-ebi",
+           "ja": "海老／車海老",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/shrimp.html"
+          },
+          {
+           "id": "shibaebi",
+           "romaji": "Shiba-ebi",
+           "ja": "芝海老",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/shiba-shrimp-tempura.html"
+          },
           {
            "id": "sakuraebinokakiage",
            "romaji": "Sakura-ebi (Kakiage)",
@@ -88,6 +155,45 @@
            "ja": "白えび（かき揚げ）",
            "url": "https://fragment-of-japan.blogspot.com/2026/10/shiro-ebi-kakiage-tempura.html",
            "x": true
+          },
+          {
+           "id": "shakunotenpura",
+           "romaji": "Shaku",
+           "ja": "シャク",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/mud-shrimp-tempura.html"
+          }
+         ]
+        },
+        {
+         "id": "shellfish",
+         "en": "Shellfish",
+         "ja": "貝",
+         "items": [
+          {
+           "id": "hotate",
+           "romaji": "Hotate",
+           "ja": "ほたて／活帆立貝",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/scallop-tempura.html"
+          },
+          {
+           "id": "kaki",
+           "romaji": "Kaki",
+           "ja": "牡蠣",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/oyster-tempura.html"
+          }
+         ]
+        },
+        {
+         "id": "seaweed",
+         "en": "Seaweed",
+         "ja": "海藻",
+         "items": [
+          {
+           "id": "mozukunotenpura",
+           "romaji": "Mozuku",
+           "ja": "もずく",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/mozuku-tempura.html",
+           "x": true
           }
          ]
         },
@@ -96,6 +202,12 @@
          "en": "Fish Paste & Processed Foods",
          "ja": "練り物・加工品",
          "items": [
+          {
+           "id": "chikuwaten",
+           "romaji": "Chikuwa",
+           "ja": "ちくわ",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/chikuwa-tempura.html"
+          },
           {
            "id": "sasakamabokonoisobeage",
            "romaji": "Sasa-kamaboko",
@@ -110,6 +222,12 @@
          "ja": "肉・卵",
          "items": [
           {
+           "id": "toriniku",
+           "romaji": "Tori-niku",
+           "ja": "鶏肉（鶏もも・ささみ）",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/chicken-tempura.html"
+          },
+          {
            "id": "toriten",
            "romaji": "Tori-ten",
            "ja": "とり天",
@@ -123,11 +241,35 @@
          "ja": "根菜・いも",
          "items": [
           {
+           "id": "satsumaimo",
+           "romaji": "Satsumaimo",
+           "ja": "さつまいも／おさつ",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/sweet-potato-tempura.html"
+          },
+          {
            "id": "gane",
            "romaji": "Satsumaimo (Gane)",
            "ja": "さつまいも（がね）",
            "url": "https://fragment-of-japan.blogspot.com/2026/10/gane-tempura.html",
            "x": true
+          },
+          {
+           "id": "renkon",
+           "romaji": "Renkon",
+           "ja": "れんこん／蓮根",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/lotus-root-tempura.html"
+          },
+          {
+           "id": "gobo",
+           "romaji": "Gobō",
+           "ja": "ごぼう",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/burdock-tempura.html"
+          },
+          {
+           "id": "ninjin",
+           "romaji": "Ninjin",
+           "ja": "にんじん",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/carrot-tempura.html"
           },
           {
            "id": "karashirenkon",
@@ -138,10 +280,132 @@
          ]
         },
         {
+         "id": "mushrooms",
+         "en": "Mushrooms",
+         "ja": "きのこ",
+         "items": [
+          {
+           "id": "shiitake",
+           "romaji": "Shiitake",
+           "ja": "椎茸",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/shiitake-tempura.html"
+          },
+          {
+           "id": "maitake",
+           "romaji": "Maitake",
+           "ja": "舞茸／白舞茸",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/maitake-tempura.html"
+          },
+          {
+           "id": "eringi",
+           "romaji": "Eringi",
+           "ja": "エリンギ",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/eringi-tempura.html"
+          }
+         ]
+        },
+        {
+         "id": "fruiting-vegetables",
+         "en": "Fruiting Vegetables",
+         "ja": "実の野菜",
+         "items": [
+          {
+           "id": "kabocha",
+           "romaji": "Kabocha",
+           "ja": "かぼちゃ／南瓜",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/kabocha-tempura.html"
+          },
+          {
+           "id": "nasu",
+           "romaji": "Nasu",
+           "ja": "なす／茄子",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/eggplant-tempura.html"
+          },
+          {
+           "id": "shishito",
+           "romaji": "Shishitō",
+           "ja": "ししとう",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/shishito-tempura.html"
+          },
+          {
+           "id": "piman",
+           "romaji": "Pīman",
+           "ja": "ピーマン",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/green-pepper-tempura.html"
+          },
+          {
+           "id": "tomorokoshi",
+           "romaji": "Tōmorokoshi",
+           "ja": "とうもろこし",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/corn-tempura.html"
+          },
+          {
+           "id": "goya",
+           "romaji": "Gōya",
+           "ja": "ゴーヤ／ゴーヤー／苦瓜",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/bitter-melon-tempura.html"
+          },
+          {
+           "id": "okura",
+           "romaji": "Okura",
+           "ja": "オクラ",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/okra-tempura.html"
+          },
+          {
+           "id": "sayaingen",
+           "romaji": "Sayaingen",
+           "ja": "さやいんげん",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/green-beans-tempura.html"
+          },
+          {
+           "id": "soramame",
+           "romaji": "Soramame",
+           "ja": "そら豆",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/fava-bean-tempura.html"
+          },
+          {
+           "id": "edamame",
+           "romaji": "Edamame",
+           "ja": "枝豆",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/edamame-tempura.html"
+          }
+         ]
+        },
+        {
          "id": "leaves-flowers-herbs",
          "en": "Leaves, Flowers & Herbs",
          "ja": "葉・花・香味",
          "items": [
+          {
+           "id": "nanohana",
+           "romaji": "Na-no-hana",
+           "ja": "菜の花",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/na-no-hana-tempura.html"
+          },
+          {
+           "id": "shungiku",
+           "romaji": "Shungiku",
+           "ja": "春菊",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/garland-chrysanthemum-tempura.html"
+          },
+          {
+           "id": "mitsuba",
+           "romaji": "Mitsuba",
+           "ja": "三つ葉",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/mitsuba-tempura.html"
+          },
+          {
+           "id": "myoga",
+           "romaji": "Myōga",
+           "ja": "みょうが",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/myoga-tempura.html"
+          },
+          {
+           "id": "ooba",
+           "romaji": "Ōba",
+           "ja": "大葉",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/oba-tempura.html"
+          },
           {
            "id": "benishogaten",
            "romaji": "Beni-shōga",
@@ -157,10 +421,41 @@
          ]
         },
         {
+         "id": "stems-buds-bulbs",
+         "en": "Stems, Buds & Bulbs",
+         "ja": "茎・つぼみ・鱗茎",
+         "items": [
+          {
+           "id": "tamanegi",
+           "romaji": "Tamanegi",
+           "ja": "玉ねぎ",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/onion-tempura.html"
+          },
+          {
+           "id": "asuparagasu",
+           "romaji": "Asuparagasu",
+           "ja": "アスパラガス",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/asparagus-tempura.html"
+          },
+          {
+           "id": "burokkori",
+           "romaji": "Burokkorī",
+           "ja": "ブロッコリー",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/broccoli-tempura.html"
+          }
+         ]
+        },
+        {
          "id": "wild-plants-bamboo",
          "en": "Wild Plants & Bamboo Shoots",
          "ja": "山菜・たけのこ",
          "items": [
+          {
+           "id": "fukinoto",
+           "romaji": "Fukinotō",
+           "ja": "ふきのとう",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/butterbur-sprout-tempura.html"
+          },
           {
            "id": "takenoko",
            "romaji": "Takenoko",
@@ -172,6 +467,25 @@
            "romaji": "Shiozuke-takenoko",
            "ja": "塩漬けタケノコ",
            "url": "https://fragment-of-japan.blogspot.com/2026/10/salted-bamboo-shoot-tempura.html"
+          }
+         ]
+        },
+        {
+         "id": "nuts-fruits",
+         "en": "Nuts & Fruits",
+         "ja": "木の実・果実",
+         "items": [
+          {
+           "id": "kuri",
+           "romaji": "Kuri",
+           "ja": "栗",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/chestnut-tempura.html"
+          },
+          {
+           "id": "ichijiku",
+           "romaji": "Ichijiku",
+           "ja": "いちじく",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/fig-tempura.html"
           }
          ]
         }
