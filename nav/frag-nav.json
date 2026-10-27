@@ -14,6 +14,60 @@
      "en": "Washoku",
      "volumes": [
       {
+       "id": "sushi",
+       "en": "Sushi",
+       "ja": "鮨",
+       "url": null,
+       "mids": [
+        {
+         "id": "maki",
+         "en": "Rolled",
+         "ja": "巻物",
+         "items": [
+          {
+           "id": "sukerokuzushi",
+           "romaji": "Sukeroku-zushi",
+           "ja": "助六寿司",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/sukeroku-zushi-sushi.html",
+           "x": true
+          },
+          {
+           "id": "shotenzushi",
+           "romaji": "Shōten-zushi",
+           "ja": "聖天ずし",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/shoten-zushi-sushi.html",
+           "x": true
+          }
+         ]
+        },
+        {
+         "id": "inari",
+         "en": "Inari",
+         "ja": "いなり",
+         "items": [
+          {
+           "id": "inarizushi",
+           "romaji": "Inari-zushi",
+           "ja": "稲荷寿司",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/inari-zushi-sushi.html"
+          },
+          {
+           "id": "sukerokuzushi",
+           "romaji": "Sukeroku-zushi",
+           "ja": "助六寿司",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/sukeroku-zushi-sushi.html"
+          },
+          {
+           "id": "shotenzushi",
+           "romaji": "Shōten-zushi",
+           "ja": "聖天ずし",
+           "url": "https://fragment-of-japan.blogspot.com/2026/10/shoten-zushi-sushi.html"
+          }
+         ]
+        }
+       ]
+      },
+      {
        "id": "tempura",
        "en": "Tempura",
        "ja": "天ぷら",
