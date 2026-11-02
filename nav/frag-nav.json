@@ -20,6 +20,43 @@
        "url": null,
        "mids": [
         {
+         "id": "nigiri",
+         "en": "Nigiri",
+         "ja": "握り",
+         "items": [
+          {
+           "id": "maguro-nigiri",
+           "romaji": "Maguro",
+           "ja": "マグロ",
+           "url": "https://fragment-of-japan.blogspot.com/2026/11/tuna-sushi.html"
+          },
+          {
+           "id": "anago-nigiri",
+           "romaji": "Anago",
+           "ja": "アナゴ",
+           "url": "https://fragment-of-japan.blogspot.com/2026/11/whitespotted-conger-sushi.html"
+          },
+          {
+           "id": "tai-nigiri",
+           "romaji": "Tai",
+           "ja": "タイ",
+           "url": "https://fragment-of-japan.blogspot.com/2026/11/red-sea-bream-sushi.html"
+          },
+          {
+           "id": "buri-nigiri",
+           "romaji": "Buri",
+           "ja": "ブリ",
+           "url": "https://fragment-of-japan.blogspot.com/2026/11/japanese-amberjack-sushi.html"
+          },
+          {
+           "id": "kohada-nigiri",
+           "romaji": "Kohada",
+           "ja": "コハダ",
+           "url": "https://fragment-of-japan.blogspot.com/2026/11/dotted-gizzard-shad-sushi.html"
+          }
+         ]
+        },
+        {
          "id": "maki",
          "en": "Rolled",
          "ja": "巻物",
